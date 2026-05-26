@@ -24,8 +24,7 @@ Replace `YOUR_USERNAME` and `YOUR_REPO` with your actual GitHub username and rep
 - [tvpsport](https://tvpi.travny.workers.dev/tvpsport.m3u)
 - [tvpdokument](https://tvpi.travny.workers.dev/tvpdokument.m3u)
 - [tvpkultura](https://raw.githubusercontent.com/lowa8026-cmyk/tvp_vod/refs/heads/main/tvpkultura.m3u)
-- [ua1]
-(https://raw.githubusercontent.com/lowa8026-cmyk/tvp_vod/refs/heads/main/ua1.m3u)
+- [ua1](https://raw.githubusercontent.com/lowa8026-cmyk/tvp_vod/refs/heads/main/ua1.m3u)
 - [tvp.m3u](https://raw.githubusercontent.com/travino/tvpi/main/tvp.m3u)
 - [tvp1.m3u](https://raw.githubusercontent.com/travino/tvpi/main/tvp1.m3u)
 - [tvp2.m3u](https://raw.githubusercontent.com/travino/tvpi/main/tvp2.m3u)
