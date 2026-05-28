@@ -8,12 +8,7 @@
  *   /tvp2.m3u        → TVP 2 HD
  *   /tvpinfo.m3u     → TVP Info
  *   /tvpsport.m3u    → TVP Sport
- *   /tvpkultura.m3u  → TVP Kultura
  *   /tvpdokument.m3u → TVP Dokument
- *   /tvpnauka.m3u    → TVP Nauka
- *   /tvprozrywka.m3u → TVP Rozrywka
- *   /tvphistoria.m3u → TVP Historia
- *   /tvpabc2.m3u     → TVP ABC 2
  *   /ua1.m3u         → UA1
 
  * Caching strategy:
@@ -53,44 +48,9 @@ const CHANNELS = [
     group: "Polska",
   },
   {
-    id:    "399700",
-    slug:  "tvpkultura",
-    name:  "TVP Kultura",
-    logo:  "https://s.tvp.pl/files/tvp.pl/images/vod-logo-header.png",
-    group: "Polska",
-  },
-  {
     id:    "399721",
     slug:  "tvpdokument",
     name:  "TVP Dokument",
-    logo:  "https://s.tvp.pl/files/tvp.pl/images/vod-logo-header.png",
-    group: "Polska",
-  },
-  {
-    id:    "399722",
-    slug:  "tvpnauka",
-    name:  "TVP Nauka",
-    logo:  "https://s.tvp.pl/files/tvp.pl/images/vod-logo-header.png",
-    group: "Polska",
-  },
-  {
-    id:    "399724",
-    slug:  "tvprozrywka",
-    name:  "TVP Rozrywka",
-    logo:  "https://s.tvp.pl/files/tvp.pl/images/vod-logo-header.png",
-    group: "Polska",
-  },
-  {
-    id:    "399703",
-    slug:  "tvphistoria",
-    name:  "TVP Historia",
-    logo:  "https://s.tvp.pl/files/tvp.pl/images/vod-logo-header.png",
-    group: "Polska",
-  },
-  {
-    id:    "399727",
-    slug:  "tvpabc2",
-    name:  "TVP ABC 2",
     logo:  "https://s.tvp.pl/files/tvp.pl/images/vod-logo-header.png",
     group: "Polska",
   },
