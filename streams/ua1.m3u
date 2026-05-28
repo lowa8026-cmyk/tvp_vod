@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="399730" tvg-name="UA1" tvg-logo="https://s.tvp.pl/files/tvp.pl/images/vod-logo-header.png" group-title="Polska",UA1
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8?token/video/live/20260528
